@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamal</h1>
+<h1 align="center">Hi 👋, I'm Djamel</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 
 - 🌱 I’m currently learning **Vue.js, Flutter**
